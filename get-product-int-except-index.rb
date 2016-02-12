@@ -1,5 +1,6 @@
 
-#brute fore solution
+#brute force solution
+#O(n^2)
 def get_products_of_all_ints_except_index(array)
   
   product_array = []
