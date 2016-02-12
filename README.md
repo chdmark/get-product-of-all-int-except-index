@@ -1,0 +1,1 @@
+# get-product-of-all-int-except-index
